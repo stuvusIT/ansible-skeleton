@@ -16,7 +16,6 @@ galaxy_info:
         - artful
 
   galaxy_tags:
-    - stuvus
     - Insert ansible galaxy tags here
 
 dependencies: []
