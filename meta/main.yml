@@ -1,3 +1,4 @@
+---
 galaxy_info:
   author: Insert author(s) here
   description: Insert description here
@@ -19,3 +20,4 @@ galaxy_info:
     - Insert ansible galaxy tags here
 
 dependencies: []
+...
