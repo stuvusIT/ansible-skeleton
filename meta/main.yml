@@ -12,9 +12,7 @@ galaxy_info:
     - name: Ubuntu
       versions:
         - xenial
-        - yakkety
-        - zesty
-        - artful
+        - bionic
 
   galaxy_tags:
     - Insert ansible galaxy tags here
