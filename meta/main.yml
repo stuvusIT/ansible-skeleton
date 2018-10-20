@@ -13,6 +13,8 @@ galaxy_info:
       versions:
         - xenial
         - bionic
+    - name: Debian
+        - stretch
 
   galaxy_tags:
     - Insert ansible galaxy tags here
