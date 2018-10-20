@@ -9,10 +9,8 @@ galaxy_info:
   min_ansible_version: 2.4
 
   platforms:
-    - name: Ubuntu
-      versions:
-        - xenial
-        - bionic
+    - name: Debian
+        - stretch
 
   galaxy_tags:
     - Insert ansible galaxy tags here
