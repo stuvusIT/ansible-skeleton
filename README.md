@@ -31,11 +31,12 @@ Including an example of how to use your role (for instance, with variables passe
 ```yml
 ```
 
+
 ## License
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+This work is licensed under the [MIT License](./LICENSE).
 
 
 ## Author Information
 
-- [Author Name (nickname)](github profile) _your-full-stuvus-email-address@stuvus.uni-stuttgart.de_
+- [Author Name (nickname)](github profile) _givenname.familyname at stuvus.uni-stuttgart.de_
