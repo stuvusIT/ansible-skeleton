@@ -4,14 +4,14 @@ galaxy_info:
   description: Insert description here
   company: stuvus (https://stuvus.uni-stuttgart.de)
 
-  license: CC-BY-SA
+  license: MIT
 
   min_ansible_version: 2.5
 
   platforms:
     - name: Debian
       versions:
-        - stretch
+        - buster
 
   galaxy_tags:
     - Insert ansible galaxy tags here
